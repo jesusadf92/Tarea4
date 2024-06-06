@@ -4,8 +4,10 @@ using System.Text;
 
 namespace Ejecicios_4Pilares
 {
+    //Empleado
     public class Empleado:Persona
     {
+
         string puesto { get; set; }
         double salario { get; set; }
 

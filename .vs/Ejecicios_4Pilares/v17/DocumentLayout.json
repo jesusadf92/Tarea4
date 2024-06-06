@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\",
+  "WorkspaceRootPath": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|c:\\users\\jesus.delapaz\\source\\repos\\ejecicios_4pilares\\ejecicios_4pilares\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|c:\\users\\jesus.delapaz\\source\\repos\\ejecicios4pilares\\ejecicios_4pilares\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|solutionrelative:ejecicios_4pilares\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|c:\\users\\jesus.delapaz\\source\\repos\\ejecicios_4pilares\\ejecicios_4pilares\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|c:\\users\\jesus.delapaz\\source\\repos\\ejecicios4pilares\\ejecicios_4pilares\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|solutionrelative:ejecicios_4pilares\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|c:\\users\\jesus.delapaz\\source\\repos\\ejecicios_4pilares\\ejecicios_4pilares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|c:\\users\\jesus.delapaz\\source\\repos\\ejecicios4pilares\\ejecicios_4pilares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23830F8D-FA06-44DA-AC7F-4473CDD3C168}|Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj|solutionrelative:ejecicios_4pilares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Empleado.cs",
               "RelativeDocumentMoniker": "Ejecicios_4Pilares\\Empleado.cs",
-              "ToolTip": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Empleado.cs",
+              "ToolTip": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Empleado.cs",
               "RelativeToolTip": "Ejecicios_4Pilares\\Empleado.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBEAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T22:38:34.877Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Persona.cs",
               "RelativeDocumentMoniker": "Ejecicios_4Pilares\\Persona.cs",
-              "ToolTip": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Persona.cs",
+              "ToolTip": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Persona.cs",
               "RelativeToolTip": "Ejecicios_4Pilares\\Persona.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA5wBQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T20:10:25.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T20:10:25.683Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Program.cs",
               "RelativeDocumentMoniker": "Ejecicios_4Pilares\\Program.cs",
-              "ToolTip": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Program.cs",
+              "ToolTip": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Program.cs",
               "RelativeToolTip": "Ejecicios_4Pilares\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T20:05:48.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T20:05:48.602Z"
             }
           ]
         }

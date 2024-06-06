@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj": {}
+    "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj": {
+    "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj",
+        "projectUniqueName": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj",
         "projectName": "Ejecicios_4Pilares",
-        "projectPath": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj",
+        "projectPath": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\Ejecicios_4Pilares.csproj",
         "packagesPath": "C:\\Users\\jesus.delapaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios_4Pilares\\Ejecicios_4Pilares\\obj\\",
+        "outputPath": "C:\\Users\\jesus.delapaz\\source\\repos\\Ejecicios4Pilares\\Ejecicios_4Pilares\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jesus.delapaz\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejecicios_4Pilares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9c419678f63989a4657ada750c6065c05ce9f9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejecicios_4Pilares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejecicios_4Pilares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
