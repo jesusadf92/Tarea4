@@ -1,0 +1,13 @@
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\obj\Debug\netcoreapp3.1\Ejecicios_4Pilares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\obj\Debug\netcoreapp3.1\Ejecicios_4Pilares.AssemblyInfoInputs.cache
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\obj\Debug\netcoreapp3.1\Ejecicios_4Pilares.AssemblyInfo.cs
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\obj\Debug\netcoreapp3.1\Ejecicios_4Pilares.csproj.CoreCompileInputs.cache
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\bin\Debug\netcoreapp3.1\Ejecicios_4Pilares.exe
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\bin\Debug\netcoreapp3.1\Ejecicios_4Pilares.deps.json
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\bin\Debug\netcoreapp3.1\Ejecicios_4Pilares.runtimeconfig.json
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\bin\Debug\netcoreapp3.1\Ejecicios_4Pilares.runtimeconfig.dev.json
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\bin\Debug\netcoreapp3.1\Ejecicios_4Pilares.dll
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\bin\Debug\netcoreapp3.1\Ejecicios_4Pilares.pdb
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\obj\Debug\netcoreapp3.1\Ejecicios_4Pilares.dll
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\obj\Debug\netcoreapp3.1\Ejecicios_4Pilares.pdb
+C:\Users\jesus.delapaz\source\repos\Ejecicios_4Pilares\Ejecicios_4Pilares\obj\Debug\netcoreapp3.1\Ejecicios_4Pilares.genruntimeconfig.cache
